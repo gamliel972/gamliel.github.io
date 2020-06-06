@@ -1,8 +1,8 @@
 ---
 published: false
 ---
-## A New Post
+## Title test
 
-![https://github.com/gamliel972/gamliel972.github.io/blob/master/images/openssl.png]()
+![_config.yml]({{ site.baseurl }}/images/openssl.png)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help
+Test body
