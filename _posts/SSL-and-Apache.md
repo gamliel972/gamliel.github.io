@@ -3,6 +3,6 @@ published: true
 ---
 ## Title test
 
-![_config.yml]({{ site.baseurl }}/images/openssl.png)
+![/images/openssl.png]({{ site.baseurl }}/images/openssl.png)
 
 Test body
