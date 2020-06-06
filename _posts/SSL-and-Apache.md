@@ -3,6 +3,6 @@ published: true
 ---
 ## Title test
 
-![/images/openssl.png]({{ site.baseurl }}/images/openssl.png)
+![openssl.png]({{site.baseurl}}/_posts/openssl.png)
 
 Test body
