@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Hello World - First post!
-published: false
+published: true
 ---
 
 
 ![_config.yml]({{ site.baseurl }}/images/404.jpg)
 
- For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+ For information or blogposts [click here](https://gamliel972.github.io/blog) on GitHub pages.
