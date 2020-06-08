@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 ## Reference for SSL in Apache for a local instance
 
