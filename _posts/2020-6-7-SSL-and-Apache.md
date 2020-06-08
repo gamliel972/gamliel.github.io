@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Reference for SSL in Apache for a local instance
 layout: post
 ---
