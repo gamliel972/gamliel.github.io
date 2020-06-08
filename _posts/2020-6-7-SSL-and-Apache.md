@@ -3,7 +3,6 @@ published: true
 title: Reference for SSL in Apache for a local instance
 layout: post
 ---
-## Reference for SSL in Apache for a local instance
 
 ![openssl.png]({{site.baseurl}}/images/openssl.png)
 
