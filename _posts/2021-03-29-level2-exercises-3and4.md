@@ -4,6 +4,8 @@ title: "Level 2 - Exercises 3 and 4 in Crack the Hash room @realTryHackMe"
 layout: post
 ---
 
+![](/images/hashcrack-badge.png)
+
 Well, make it simple, for the other exercises there are writeups where you can take a look if you need help. In this summary I'll show how to see the cracked passwords with hashcat.
 
 
